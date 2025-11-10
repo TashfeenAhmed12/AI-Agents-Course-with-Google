@@ -1,6 +1,6 @@
 # 🤖 AI Agents — Learning & Implementation Repository
 
-This repository documents my **learning journey and hands-on projects** from the Kaggle [AI Agents Course](https://www.kaggle.com/learn-guide/5-day-agents).  
+This repository documents my **learning journey and hands-on projects** from Google [AI Agents Course](https://www.kaggle.com/learn-guide/5-day-agents).  
 The course explores how to design, build, and deploy **intelligent, autonomous agents** capable of perceiving context, reasoning through tasks, and executing real-world actions using Large Language Models (LLMs).
 
 ---
